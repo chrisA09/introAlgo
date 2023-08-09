@@ -137,6 +137,21 @@ Identificar el estado inicial y el estado final en cada situación:
 
 ### 1.k Separar el cuatro de copas de un conjunto de naipes
 
+1. -inicio.
+1. tomar mazo.
+1. mientras la carta acutal no sea igual a '4 de copas', pasar cartas.
+1. si la carta actual es un '4 de copas', sacar carta del mazo.
+1. -fin.
+
 ### 1.l Buscar la menor carta de un mazo de naipes, que puede no estar completo
 
+1. -inicio.
+1. tomar mazo.
+1. pasar cartas
+1. 
+
 ### 1.m Ordenar un conjunto de naipes
+
+1. -inicio.
+1. tomar mazo.
+1. 
