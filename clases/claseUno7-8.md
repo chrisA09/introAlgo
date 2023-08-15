@@ -75,5 +75,3 @@ imagenes en hoja de tp1.
 
 > constantes se escriben con mayuscula, por convencion.
 > Todas las constantes se declaran juntas al comienzo del diagrama.
-
-
