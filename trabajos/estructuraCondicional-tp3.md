@@ -92,6 +92,11 @@ años que sean divisibles por 4 y también por 100 no son bisiestos, a menos que
 también  sean  divisibles  por  400.  Por  ejemplo,  1900  no  fue  bisiesto  pero  sí  el
 2000.
 
+entrada:  
+n  
+salida:
+bisiesto o no
+
 *ej 8:*  
 Leer  tres  números  correspondientes  al  día,  mes  y  año  de  una  fecha  e  imprimir
 un mensaje indicando si la fecha es válida o no.
