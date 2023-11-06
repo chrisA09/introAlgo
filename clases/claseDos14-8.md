@@ -60,6 +60,7 @@ Operadores que se suman: Los que perimten comparar.
 - `distinto`: !=
 
 ### Operadores logicos
+
 permiten hacer mas de una evaluacion sobre la condicion que estamos trantando de controlar.  
 - `and` --> se relaciona con la multiplicacion. ambas tienen que ser verdaderas
 - `or` --> se realaciona con la suma. con que una sea verdadera alcanza
