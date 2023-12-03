@@ -64,7 +64,7 @@ def busqueda(lista, valor_buscado):
 def bubble_sort_listas_relacionadas(lista1,lista2):
 
     for i in range(0, len(lista1)-1):
-        for j in range(0,len(1)-1-i):
+        for j in range(0,len(lista1)-1-i):
             if (lista1[j] > lista1[j+1]):
                 aux = lista1[j]
                 lista1[j] = lista1[j+1]
